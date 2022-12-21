@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: darkviolet;
+    height: 60px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    display: flex;
+    padding: 15px;
+}
+
+.header{
+    border: 1px solid white;
+    display: flex;
+    background-color: darkviolet;
+}
+
+a{
+    margin-left: 15px;
+    color: white;
+    font-size: 30px;
+}
+
+.link{
+    color: gray;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.box{
+
+}
+
+.img{
+    background-color: skyblue;
+    margin-left: auto;
+
+}
+
+.province{
+    display: flex;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    color: white;
+    background-color: gray;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 400px;
+
+}
+
+.imgg{
+    background-color: skyblue;
+    margin-left: auto;
+}
+
+.company{
+    display: flex;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    color: white;
+    background-color: gray;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 30px;
+    width: 400px;
+
+}
+
+h3{
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+#h33{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.map{
+    display: flex;
+    border: 600px solid white;
+    margin-top: 50px;
+    margin-left: 100px;
+}
